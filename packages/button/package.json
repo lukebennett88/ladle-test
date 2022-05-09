@@ -1,0 +1,17 @@
+{
+  "name": "@ladle-test/button",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "dist/ladle-test-button.cjs.js",
+  "module": "dist/ladle-test-button.esm.js",
+  "dependencies": {
+    "@babel/runtime": "^7.17.9"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.9",
+    "react": "^18.1.0"
+  },
+  "peerDependencies": {
+    "react": "^18.1.0"
+  }
+}
